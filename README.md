@@ -5,8 +5,14 @@
    * Celery
    * CeleryBeat
    * Selenium
-   * SubProcess
+   * SubProcess Module
    * Socket.IO
    * Oauth2
    * oauth2client
    * JWT
+
+#### Todo Requirements
+    * Kubernetes
+    * Docker
+    * Containers
+
