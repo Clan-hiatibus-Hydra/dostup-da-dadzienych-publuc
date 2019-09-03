@@ -11,7 +11,7 @@
    * oauth2client
    * JWT
 
-#### Todo Requirements @github/kartikag1
+#### Todo Requirements
    * Kubernetes
    * Docker
 
