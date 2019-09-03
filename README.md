@@ -14,5 +14,4 @@
 #### Todo Requirements
     * Kubernetes
     * Docker
-    * Containers
 
