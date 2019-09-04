@@ -9,7 +9,7 @@
    * Socket.IO
    * Oauth2
    * oauth2client
-   * JWT...
+   * JWTi
 #### Todo Requirements
    - [ ] Kubernetes
    - [ ] Docker
